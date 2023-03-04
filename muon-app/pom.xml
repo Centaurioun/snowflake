@@ -62,7 +62,7 @@
 
 
 
-		<!-- <dependency> <groupId>jediterm</groupId> <artifactId>jediterm</artifactId> 
+		<!-- <dependency> <groupId>jediterm</groupId> <artifactId>jediterm</artifactId>
 			<version>0.0.1-SNAPSHOT</version> </dependency> -->
 		<dependency>
 			<groupId>com.fifesoft</groupId>
@@ -132,7 +132,7 @@
 			<artifactId>jna-platform</artifactId>
 			<version>5.13.0</version>
 		</dependency>
-		<!-- <dependency> <groupId>snowflake</groupId> <artifactId>terminal</artifactId> 
+		<!-- <dependency> <groupId>snowflake</groupId> <artifactId>terminal</artifactId>
 			<version>0.0.1-SNAPSHOT</version> </dependency> -->
 		<dependency>
 			<groupId>net.i2p.crypto</groupId>
@@ -193,8 +193,8 @@
 			</plugin>
 
 
-			<!-- <plugin> <groupId>org.apache.maven.plugins</groupId> <artifactId>maven-jar-plugin</artifactId> 
-				<version>3.0.0</version> <configuration> <archive> <manifest> <mainClass>nixexplorer.App</mainClass> 
+			<!-- <plugin> <groupId>org.apache.maven.plugins</groupId> <artifactId>maven-jar-plugin</artifactId>
+				<version>3.0.0</version> <configuration> <archive> <manifest> <mainClass>nixexplorer.App</mainClass>
 				</manifest> </archive> </configuration> </plugin> -->
 			<plugin>
 				<artifactId>maven-assembly-plugin</artifactId>
