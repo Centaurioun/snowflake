@@ -92,7 +92,7 @@
 		<dependency>
 			<groupId>com.fifesoft</groupId>
 			<artifactId>rstaui</artifactId>
-			<version>3.0.6</version>
+			<version>3.3.1</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.bouncycastle/bcprov-jdk15on -->
 		<!-- https://mvnrepository.com/artifact/org.bouncycastle/bcprov-jdk15on -->
